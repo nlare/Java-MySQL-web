@@ -1,0 +1,125 @@
+﻿h1.blue {color:black}
+body {background-color: gainsboro}
+/*#content > div {display: none;}*/
+div.title {
+    height:40px;
+    /*width: 1000px;*/
+    /*padding-left: 20px;*/
+    background-color: ghostwhite;
+    text-align: center;
+    vertical-align: top;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px 10px 0px 0px;
+}
+div.wisdom  {
+    height:40px;
+    /*width: 1000px;*/
+    /*padding-left: 20px;*/
+    background-color: ghostwhite;
+    text-align: center;
+    vertical-align: top;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 0px 0px 0px 0px;
+}
+div.top-of-pages {
+    height: 40px;
+    margin: -10;
+    /*padding: 0;*/
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+div.buttons {
+    height: 35px;
+    /*width: 40px;*/
+    padding-top: 20px;
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 0px 0px 10px 10px;
+}
+div.login   {
+    style:float;
+    height: 40px;
+    width: 60px;
+    /*margin: 40px;*/
+    margin-top: -200px;
+    /*margin-bottom: 10px;*/
+    /*margin-right: 10px;*/
+    margin-left: 10px;
+}
+div.about {
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px 10px 10px 10px;
+    /*display: ;*/
+}
+div.login {
+    /*style: float:left;*/
+    /*height: 100px;*/
+    width: 200px;
+    /*margin-top: -95px;*/
+    /*margin-left: 20%;*/
+    /*margin-right: 20%;*/
+    /*margin-top:-30%;*/
+    /*text-align: center;*/
+    /*background-color: ghostwhite;*/
+    /*border-radius: 10px 10px 10px 10px;*/
+    /*display: none;*/
+}
+div.photo {
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px 10px 10px 10px;
+    /*display: none;*/
+}
+div.photo-view  {
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+
+}
+div.video {
+    height: 300px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px 10px 10px 10px;
+    /*display: none;*/
+}
+a.main-button {
+    color: black;
+    background-color: lightgrey;
+    padding-top: 10px;
+    padding-bottom: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /*border-radius: 2px 2px 2px 2px;*/
+    /*border: 1px solid */
+}
+a.buttons {
+    color: black;
+    background-color: lightgrey;
+    padding: 5px;
+    padding-bottom: 10px;
+    border-radius: 2px 2px 2px 2px;
+    /*border: 1px solid */
+}
