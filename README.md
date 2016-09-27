@@ -1,2 +1,2 @@
 # java-sql-resource
-Experimental resourse write with java and sql.
+Experimental web-resourse writed with java and sql.
