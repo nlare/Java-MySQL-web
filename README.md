@@ -1,2 +1,3 @@
-# java-sql-resource
-Experimental web-resourse writed with java and sql.
+# Java/SQL/JQuery
+
+Experiments with web and programming languages.
